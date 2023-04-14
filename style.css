@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #FFFFFF;
+}
+
+.container {
+  margin-top: 80px;
+  margin-left: 50px;
+}
+
+.panel {
+  background-color: #E9ECEF;
+  width: 250px;
+}
+
+.axis path {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.bar {
+  fill: steelblue;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+.data-processing {
+  font-family: sans-serif;
+  margin-top: 90px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+ul {
+  margin-left: 30px;
+  margin-bottom: 0;
+}
+
+p {
+  margin-bottom: 0;
+}
